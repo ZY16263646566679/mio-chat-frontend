@@ -1,7 +1,7 @@
 /**
  * @author 彭志勇 <2457305628@qq.com>
  * @lastEditor 彭志勇 <2457305628@qq.com>
- * @lastEditTime 2024-04-25 06:25:30
+ * @lastEditTime 2024-04-25 08:46:14
  */
 
 export default class EventEmitter {
